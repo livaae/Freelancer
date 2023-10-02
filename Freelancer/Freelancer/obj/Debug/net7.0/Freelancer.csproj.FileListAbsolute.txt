@@ -1,0 +1,14 @@
+C:\Users\livan\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livan\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.AssemblyInfoInputs.cache
+C:\Users\livan\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.AssemblyInfo.cs
+C:\Users\livan\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.csproj.CoreCompileInputs.cache
+C:\Users\livan\source\repos\Freelancer\Freelancer\bin\Debug\net7.0\Freelancer.exe
+C:\Users\livan\source\repos\Freelancer\Freelancer\bin\Debug\net7.0\Freelancer.deps.json
+C:\Users\livan\source\repos\Freelancer\Freelancer\bin\Debug\net7.0\Freelancer.runtimeconfig.json
+C:\Users\livan\source\repos\Freelancer\Freelancer\bin\Debug\net7.0\Freelancer.dll
+C:\Users\livan\source\repos\Freelancer\Freelancer\bin\Debug\net7.0\Freelancer.pdb
+C:\Users\livan\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.dll
+C:\Users\livan\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\refint\Freelancer.dll
+C:\Users\livan\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.pdb
+C:\Users\livan\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\Freelancer.genruntimeconfig.cache
+C:\Users\livan\source\repos\Freelancer\Freelancer\obj\Debug\net7.0\ref\Freelancer.dll
